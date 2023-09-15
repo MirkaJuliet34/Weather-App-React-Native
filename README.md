@@ -10,9 +10,6 @@
   
   <p align="left">
     <a href="https://www.linkedin.com/in/mirka-juliet-9bb590148/"><img alt="Linkedin" title="Linkedin"  src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <p>
-      Watch Tutorial on YouTube <a href="https://youtu.be/953vyZMO4cM" target="_blank">Weather App in React Native</a>
-    </p>
     
   </p>
   
