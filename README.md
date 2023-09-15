@@ -55,4 +55,4 @@ Como `npm start` / `yarn start`, mas também tenta abrir seu aplicativo em um di
   <a href="https://www.linkedin.com/in/mirka-juliet-9bb590148/"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<a href="https://github.com/MirkaJuliet34/Weather-App-React-Native/blob/master/README.md">☕ Apresentção do Projeto</a>
+<a href="https://github.com/MirkaJuliet34/Weather-App-React-Native/blob/master/README.md">☕ Apresentação do Projeto</a>
